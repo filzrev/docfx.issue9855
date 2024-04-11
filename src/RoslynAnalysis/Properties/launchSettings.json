@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RoslynAnalysis": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
